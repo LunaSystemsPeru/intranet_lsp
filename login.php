@@ -19,15 +19,15 @@
 
 
     <!--Bootstrap Stylesheet [ REQUIRED ]-->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="public/css/bootstrap.min.css" rel="stylesheet">
 
 
     <!--Nifty Stylesheet [ REQUIRED ]-->
-    <link href="css/nifty.min.css" rel="stylesheet">
+    <link href="public/css/nifty.min.css" rel="stylesheet">
 
 
     <!--Nifty Premium Icon [ DEMONSTRATION ]-->
-    <link href="css/demo/nifty-demo-icons.min.css" rel="stylesheet">
+    <link href="public/css/demo/nifty-demo-icons.min.css" rel="stylesheet">
 
 
     <!--=================================================-->
@@ -35,13 +35,13 @@
 
 
     <!--Pace - Page Load Progress Par [OPTIONAL]-->
-    <link href="plugins/pace/pace.min.css" rel="stylesheet">
-    <script src="plugins/pace/pace.min.js"></script>
+    <link href="public/plugins/pace/pace.min.css" rel="stylesheet">
+    <script src="public/plugins/pace/pace.min.js"></script>
 
 
         
     <!--Demo [ DEMONSTRATION ]-->
-    <link href="css/demo/nifty-demo.min.css" rel="stylesheet">
+    <link href="public/css/demo/nifty-demo.min.css" rel="stylesheet">
 
     
     <!--=================================================
@@ -132,14 +132,14 @@
 		<div class="demo-bg">
 		    <div id="demo-bg-list">
 		        <div class="demo-loading"><i class="psi-repeat-2"></i></div>
-		        <img class="demo-chg-bg bg-trans active" src="img/bg-img/thumbs/bg-trns.jpg" alt="Background Image">
-		        <img class="demo-chg-bg" src="img/bg-img/thumbs/bg-img-1.jpg" alt="Background Image">
-		        <img class="demo-chg-bg" src="img/bg-img/thumbs/bg-img-2.jpg" alt="Background Image">
-		        <img class="demo-chg-bg" src="img/bg-img/thumbs/bg-img-3.jpg" alt="Background Image">
-		        <img class="demo-chg-bg" src="img/bg-img/thumbs/bg-img-4.jpg" alt="Background Image">
-		        <img class="demo-chg-bg" src="img/bg-img/thumbs/bg-img-5.jpg" alt="Background Image">
-		        <img class="demo-chg-bg" src="img/bg-img/thumbs/bg-img-6.jpg" alt="Background Image">
-		        <img class="demo-chg-bg" src="img/bg-img/thumbs/bg-img-7.jpg" alt="Background Image">
+		        <img class="demo-chg-bg bg-trans active" src="public/img/bg-img/thumbs/bg-trns.jpg" alt="Background Image">
+		        <img class="demo-chg-bg" src="public/img/bg-img/thumbs/bg-img-1.jpg" alt="Background Image">
+		        <img class="demo-chg-bg" src="public/img/bg-img/thumbs/bg-img-2.jpg" alt="Background Image">
+		        <img class="demo-chg-bg" src="public/img/bg-img/thumbs/bg-img-3.jpg" alt="Background Image">
+		        <img class="demo-chg-bg" src="public/img/bg-img/thumbs/bg-img-4.jpg" alt="Background Image">
+		        <img class="demo-chg-bg" src="public/img/bg-img/thumbs/bg-img-5.jpg" alt="Background Image">
+		        <img class="demo-chg-bg" src="public/img/bg-img/thumbs/bg-img-6.jpg" alt="Background Image">
+		        <img class="demo-chg-bg" src="public/img/bg-img/thumbs/bg-img-7.jpg" alt="Background Image">
 		    </div>
 		</div>
 		<!--===================================================-->
@@ -156,15 +156,15 @@
     <!--=================================================-->
 
     <!--jQuery [ REQUIRED ]-->
-    <script src="js/jquery.min.js"></script>
+    <script src="public/js/jquery.min.js"></script>
 
 
     <!--BootstrapJS [ RECOMMENDED ]-->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="public/js/bootstrap.min.js"></script>
 
 
     <!--NiftyJS [ RECOMMENDED ]-->
-    <script src="js/nifty.min.js"></script>
+    <script src="public/js/nifty.min.js"></script>
 
 
 
@@ -172,7 +172,7 @@
     <!--=================================================-->
     
     <!--Background Image [ DEMONSTRATION ]-->
-    <script src="js/demo/bg-images.js"></script>
+    <script src="public/js/demo/bg-images.js"></script>
 
 </body>
 

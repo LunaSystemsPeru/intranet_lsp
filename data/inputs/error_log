@@ -1,0 +1,10 @@
+[28-Feb-2020 15:43:00 UTC] PHP Notice:  Undefined index: id_producto in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 141
+[28-Feb-2020 15:43:00 UTC] PHP Notice:  Undefined index: nombre in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 142
+[28-Feb-2020 15:43:00 UTC] PHP Notice:  Undefined index: precio in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 143
+[28-Feb-2020 15:43:00 UTC] PHP Notice:  Undefined index: tipo_pago in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 144
+[28-Feb-2020 15:43:00 UTC] PHP Notice:  Undefined index: caracteristicas in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 145
+[28-Feb-2020 15:58:33 UTC] PHP Notice:  Undefined index: id_producto in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 141
+[28-Feb-2020 15:58:33 UTC] PHP Notice:  Undefined index: nombre in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 142
+[28-Feb-2020 15:58:33 UTC] PHP Notice:  Undefined index: precio in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 143
+[28-Feb-2020 15:58:33 UTC] PHP Notice:  Undefined index: tipo_pago in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 144
+[28-Feb-2020 15:58:33 UTC] PHP Notice:  Undefined index: caracteristicas in /home/lunasystems/public_html/intranet/models/cl_producto_precio.php on line 145

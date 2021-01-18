@@ -1,0 +1,2 @@
+[10-Mar-2020 21:06:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1130): Host 'ip-107-180-28-214.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/lunasystems/public_html/intranet/models/cl_conectar.php on line 33
+[10-Mar-2020 21:06:12 UTC] PHP Fatal error:  Falla en la conexion de base de datosHost 'ip-107-180-28-214.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/lunasystems/public_html/intranet/models/cl_conectar.php on line 36

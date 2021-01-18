@@ -1,12 +1,12 @@
 <?php
-require '../clases/cl_alquiler.php';
-require '../clases/cl_alquiler_pago.php';
-require '../clases/cl_producto.php';
-require '../clases/cl_producto_precio.php';
-require '../clases/cl_prospecto.php';
-require '../clases/cl_venta.php';
-require '../clases/cl_documento_sunat.php';
-require '../clases_varios/cl_varios.php';
+require '../models/cl_alquiler.php';
+require '../models/cl_alquiler_pago.php';
+require '../models/cl_producto.php';
+require '../models/cl_producto_precio.php';
+require '../models/cl_prospecto.php';
+require '../models/cl_venta.php';
+require '../models/cl_documento_sunat.php';
+require '../tools/cl_varios.php';
 
 if (filter_input(INPUT_GET, 'id_pago')) {
     $c_varios = new cl_varios();

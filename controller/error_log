@@ -1,0 +1,9 @@
+[30-Dec-2019 23:47:46 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 32
+[30-Dec-2019 23:47:46 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 56
+[30-Dec-2019 23:47:46 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 64
+[10-Jan-2020 00:11:48 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 32
+[10-Jan-2020 00:11:48 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 56
+[10-Jan-2020 00:11:48 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 64
+[26-Mar-2020 00:44:42 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 32
+[26-Mar-2020 00:44:42 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 56
+[26-Mar-2020 00:44:42 UTC] PHP Notice:  Undefined index: id_usuario in /home/lunasystems/public_html/intranet/controller/reg_orden_interna_venta.php on line 64
